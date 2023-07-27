@@ -1,6 +1,6 @@
 <template>
-  <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <img alt="Vue logo" src="./assets/logo_REC.png">
+  <HelloWorld msg="Welcome by RealEstateCare"/>
 </template>
 
 <script>
@@ -20,7 +20,7 @@ export default {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   text-align: center;
-  color: #2c3e50;
+  color:rgba(0,170,162,1);
   margin-top: 60px;
 }
 </style>
